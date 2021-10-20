@@ -1,0 +1,8 @@
+.addedTask{
+  color: red;
+  background-color: rgb(238, 196, 196);
+  box-shadow: 2px 2px 10px rgb(210, 216, 221);
+  padding: 10px;
+  display: block !important;
+  margin-left: 50px;
+}
